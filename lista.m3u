@@ -1,7 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1, ESPN
-https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/13_.m3u8?token=fplp1Sd18B9Tmc-RDpy23w&expires=1776564305
+https://244pl.streamingtv339.com/espn/index.m3u8?token=7d5d585d102b77919e07de38ddb7e976cac93af7-e4-1776579286-1776525286&ip=187.243.208.6
 
 #EXTINF:-1, VIX TUDN
 https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/1_.m3u8?token=ofL9srm_WdNfusr8kSze8Q&expires=1776566075
+
+#EXTINF:-1, UNIVERSO USA
+https://244pl.streamingtv339.com/universo/tracks-v1a1/mono.m3u8?ip=187.243.208.6&token=96c185fed8ed3239c8121eec06592ac342453d16-8f-1776576785-1776522785
+
+#EXTINF:-1, ESPN ARGENTINA
+https://cc324.streamingtv339.com/disney9/tracks-v1a1/mono.m3u8?ip=187.243.208.6&token=c6d22b249e2baeeb0abd6140c124f7e6826edbd7-b1-1776579087-1776525087
+
+#EXTINF:-1, ESPN ARGENTINA 1
+https://n2.zohanayaan.com:1686/hls/capodeportes2.m3u8?md5=CPeEEbD3rucpNWEWP9T0XA&expires=1776541522
+
+#EXTINF:-1, LALIGA ESPAÑA
+https://qzv4jmsc.fubohd.com/hypermotion1/mono.m3u8?token=077d15d02af9252bbf0979d2ebed9f8673721f11-f2-1776551512-1776533512
+
+#EXTINF:-1, LALIGA ESPAÑA
+https://doc1.streameasthd.net/disney10/tracks-v1a1/mono.m3u8?ip=187.243.208.6&token=c174404db8ea8ef19e5cfabbc8926136bf797454-c8-1776579443-1776525443
