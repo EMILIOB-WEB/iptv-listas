@@ -15,8 +15,59 @@ https://cc324.streamingtv339.com/disney9/tracks-v1a1/mono.m3u8?ip=187.243.208.6&
 #EXTINF:-1, ESPN ARGENTINA 1
 https://n2.zohanayaan.com:1686/hls/capodeportes2.m3u8?md5=CPeEEbD3rucpNWEWP9T0XA&expires=1776541522
 
+#EXTINF:-1, ESPN 4 ARGENTINA 
+https://raw.githubusercontent.com/EMILIOB-WEB/iptv-listas/main/lista.m3u
+
+#EXTINF:-1, ESPN 5  
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/24_.m3u8?token=GopSOMRjkYhRwt8Sf1aKkw&expires=1776567536
+
+#EXTINF:-1, ESPN 6  
+ttps://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/25_.m3u8?token=VOi74Czv4kV6_VI2V_06TQ&expires=1776567576
+
+#EXTINF:-1, ESPN 7
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/26_.m3u8?token=HsrZj3e34l8njzYEr_Bj6g&expires=1776567605
+
+#EXTINF:-1, ESPN 1 MX
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/19_.m3u8?token=56cM8gYipfh8LAxhHRTBWw&expires=1776567641
+
+#EXTINF:-1, ESPN 2 MX
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/20_.m3u8?token=DE-SXMJzLEaftUl4pAmZ5g&expires=1776567687
+
+#EXTINF:-1, ESPN 3 MX
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/21_.m3u8?token=YOm_Wk5tJ66SPFa432neKA&expires=1776567699
+
+#EXTINF:-1, ESPN 4 MX
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/33_.m3u8?token=VCs4Co8yHbgRS2VrfJ_eZg&expires=1776567713
+
+#EXTINF:-1, ESPN 5 MX
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/38_.m3u8?token=FTssjubQAgGgVG2kLKUIIg&expires=1776567729
+
 #EXTINF:-1, LALIGA ESPAÑA
 https://qzv4jmsc.fubohd.com/hypermotion1/mono.m3u8?token=077d15d02af9252bbf0979d2ebed9f8673721f11-f2-1776551512-1776533512
 
 #EXTINF:-1, LALIGA ESPAÑA
 https://doc1.streameasthd.net/disney10/tracks-v1a1/mono.m3u8?ip=187.243.208.6&token=c174404db8ea8ef19e5cfabbc8926136bf797454-c8-1776579443-1776525443
+
+#EXTINF:-1, CANAL 5 MX
+https://regionales.saohgdasregions.fun:9092/MTg3LjI0My4yMDguNg==/2_.m3u8?token=Mn2oaIar1E86-pMUGmiwsg&expires=1776578602
+
+#EXTINF:-1, UNIVISION USA
+https://regionales.saohgdasregions.fun:9092/MTg3LjI0My4yMDguNg==/9_.m3u8?token=TlMWM9FOuhCjvHPAu5ig6A&expires=1776578650
+
+#EXTINF:-1, WIN SPORTS PLUS
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/30_.m3u8?token=XD6nPiZjGEjUAzz3b9nUhQ&expires=1776567883
+
+#EXTINF:-1,  FOX SPORTS 3 ARG
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/10_.m3u8?token=tlCIC-K6xh9_3X9-KWdvEg&expires=1776567946
+
+#EXTINF:-1,  FOX SPORTS 2 ARG
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/9_.m3u8?token=GBCnZVZDCP85Do3FiM6XqQ&expires=1776567975
+
+#EXTINF:-1,  FOX SPORTS 1 ARG
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/8_.m3u8?token=IlsdErlQisXEXmHal-KRFA&expires=1776568027
+
+#EXTINF:-1,  DAZN LALIGA
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/28_.m3u8?token=MWDekZnvI_uUhMxsNeweFA&expires=1776568114
+
+#EXTINF:-1,  DAZN F1
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/27_.m3u8?token=x3AZ1BIA1KwRBpnQ3xcciw&expires=1776568143
