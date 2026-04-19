@@ -1,5 +1,73 @@
 #EXTM3U
 
-#EXTINF:-1, ESPN
-https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/13_.m3u8?token=fplp1Sd18B9Tmc-RDpy23w&expires=1776564305
+#EXTINF:-1 group-title="Deportes",FOX TUBI XTRA - MEXICO
+https://aegis-cloudfront-1.tubi.video/0b3b6122-078c-4c89-ae5e-f548b9b1e382/playlist720p.m3u8
 
+#EXTINF:-1 group-title="Deportes",FOX TUBI - MEXICO
+https://apollo.production-public.tubi.io/live/fox-en-tubi-dynamic-ad-breaks-aQpF7H/1280x720.m3u8
+
+#EXTINF:-1 group-title="Deportes",FOX ONE - MEXICO
+https://cc324.streamingtv339.com/foxone1/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",TUDN - MEXICO
+https://embed.ksdjugfsddeports.com/embed/tudn.html
+
+#EXTINF:-1 group-title="Deportes",ESPN
+https://embed.ksdjugfsddeports.com/embed/espn.html
+
+#EXTINF:-1 group-title="Deportes",ESPN PREMIUM - LATAM
+https://embed.ksdjugfsddeports.com/embed/espnpremium.html
+
+#EXTINF:-1 group-title="Deportes",ESPN 1 - MEXICO
+https://embed.ksdjugfsddeports.com/embed/espnmexico.html
+
+#EXTINF:-1 group-title="Deportes",ESPN 2 - MEXICO
+https://embed.ksdjugfsddeports.com/embed/espn2mexico.html
+
+#EXTINF:-1 group-title="Deportes",ESPN 3 - MEXICO
+https://embed.ksdjugfsddeports.com/embed/espn3mexico.html
+
+#EXTINF:-1 group-title="Deportes",ESPN 4 - MEXICO
+https://embed.ksdjugfsddeports.com/embed/espn4mexico.html
+
+#EXTINF:-1 group-title="Deportes",ESPN PREMIUM - ARGENTINA
+https://embed.ksdjugfsddeports.com/embed/espnpremiumargentina.html
+
+#EXTINF:-1 group-title="Deportes",ESPN 1 - ARGENTINA
+https://embed.ksdjugfsddeports.com/embed/espnar.html
+
+#EXTINF:-1 group-title="Deportes",ESPN 2 - ARGENTINA
+https://embed.ksdjugfsddeports.com/embed/espn2.html
+
+#EXTINF:-1 group-title="Deportes",ESPN 3 - ARGENTINA
+https://embed.ksdjugfsddeports.com/embed/espn3.html
+
+#EXTINF:-1 group-title="Deportes",ESPN 4 - ARGENTINA
+https://embed.ksdjugfsddeports.com/embed/espn4.html
+
+#EXTINF:-1 group-title="Deportes",ESPN 5 - ARGENTINA
+https://embed.ksdjugfsddeports.com/embed/espn5.html
+
+#EXTINF:-1 group-title="Deportes",ESPN 6 - ARGENTINA
+https://embed.ksdjugfsddeports.com/embed/espn6.html
+
+#EXTINF:-1 group-title="Deportes",ESPN 7 - ARGENTINA
+https://embed.ksdjugfsddeports.com/embed/espn7.html
+
+#EXTINF:-1 group-title="Deportes",AZTECA 7
+https://embed.ksdjugfsddeports.com/embed/azteca7.html
+
+#EXTINF:-1 group-title="Deportes",CANAL 5
+https://embed.ksdjugfsddeports.com/embed/canal5.html
+
+#EXTINF:-1 group-title="Deportes",SKY SPORTS BUNDESLIGA
+https://embed.ksdjugfsddeports.com/embed/skysportsbundesliga.html
+
+#EXTINF:-1 group-title="Deportes",SKY SPORTS MEXICO
+https://embed.ksdjugfsddeports.com/embed/skysportsmexico.html
+
+#EXTINF:-1 group-title="Deportes",AZTECA DEPORTES
+https://embed.ksdjugfsddeports.com/embed/aztecadeportes.html
+
+#EXTINF:-1 group-title="Deportes",BEIN SPORTS XTRA
+https://embed.ksdjugfsddeports.com/embed/beinsportsxtra.html
