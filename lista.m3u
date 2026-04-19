@@ -6,6 +6,9 @@ https://244pl.streamingtv339.com/espn/index.m3u8?token=7d5d585d102b77919e07de38d
 #EXTINF:-1, VIX TUDN
 https://deportes.ksdjugfsddeports.com:9092/MTg3LjI0My4yMDguNg==/1_.m3u8?token=ofL9srm_WdNfusr8kSze8Q&expires=1776566075
 
+#EXTINF:-1, TUDN USA
+https://14c51.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=187.243.208.6&token=e63fb76c134158f5ba8208a9a6fd0fbcc55cfcc3-fe-1776611234-1776557234
+
 #EXTINF:-1, UNIVERSO USA
 https://244pl.streamingtv339.com/universo/tracks-v1a1/mono.m3u8?ip=187.243.208.6&token=96c185fed8ed3239c8121eec06592ac342453d16-8f-1776576785-1776522785
 
